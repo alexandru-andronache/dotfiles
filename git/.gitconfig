@@ -2,7 +2,7 @@
 	excludesFile = /Users/alex/.gitignore
 	eol = lf
 [user]
-	name = Alexandru Andronache
+	name = alex
 	email = alexandru.andronache@icloud.com
 [pull]
 	rebase = true
