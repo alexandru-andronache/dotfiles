@@ -80,5 +80,6 @@
     "editor.bracketPairColorization.enabled": true,
     "workbench.colorTheme": "Cobalt2",
     "workbench.iconTheme": "vscode-icons",
-    "workbench.productIconTheme": "fluent-icons"
+    "workbench.productIconTheme": "fluent-icons",
+    "vsicons.dontShowNewVersionMessage": true
 }
