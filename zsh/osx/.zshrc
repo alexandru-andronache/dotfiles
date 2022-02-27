@@ -1,6 +1,7 @@
 export ZSH="/Users/alex/.oh-my-zsh"
 ZSH_THEME="powerlevel9k/powerlevel9k"
 export PATH="$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin"
+export PATH="$PATH:$HOME/.cargo/bin"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
