@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "OSX",
+      "compilerPath": "/usr/local/opt/llvm/bin/clang",
+      "cppStandard": "c++20",
+    }
+  ],
+  "version": 1
+}
