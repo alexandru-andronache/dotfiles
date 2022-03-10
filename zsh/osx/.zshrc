@@ -1,5 +1,6 @@
 export ZSH="/Users/alex/.oh-my-zsh"
 ZSH_THEME="powerlevel9k/powerlevel9k"
+export PATH="/usr/local/opt/llvm/bin:$PATH"
 export PATH="$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin"
 export PATH="$PATH:$HOME/.cargo/bin"
 plugins=(git)
