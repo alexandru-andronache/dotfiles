@@ -36,3 +36,5 @@
 	p = push
 	remotes = remote -v
 	s = status -s
+[diff]
+	external = difft
